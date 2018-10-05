@@ -12,5 +12,6 @@ Week03
 * div.html
 
 Week04
-* TicTacToe.html
-* My Blog.html
+* TicTacToe.html/css
+* My Blog.html/css
+* profile.html
