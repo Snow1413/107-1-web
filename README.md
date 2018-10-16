@@ -3,7 +3,10 @@
 ## [INDEX](https://snow1413.github.io/207410381/)
 week  |homework
 ------|------
-01    |intro
+01    |[intro.html](https://snow1413.github.io/207410381/Week-01/intro.html)
+02    |[pkm.html](https://snow1413.github.io/207410381/Week-02/pkm.html) [class.html](https://snow1413.github.io/207410381/Week-02/class.html)
+03|
+
 ## Week 01
 * [intro.html](https://snow1413.github.io/207410381/Week-01/intro.html)
 
@@ -23,6 +26,6 @@ week  |homework
 * [Image Gallery.html/css](https://snow1413.github.io/207410381/Week-05/ImageGallery/imagegallery.html)
 * [Pet.html/css](https://snow1413.github.io/207410381/Week-05/Pet/pet.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5Nzc3MzMxNSwtMTI3NjU0OTU5NiwxOT
-A0NjY1Mjc1LDIwNDU2Nzk5MTMsMTkwNDY2NTI3NV19
+eyJoaXN0b3J5IjpbLTE2NjUwNjU2MTIsLTEyNzY1NDk1OTYsMT
+kwNDY2NTI3NSwyMDQ1Njc5OTEzLDE5MDQ2NjUyNzVdfQ==
 -->
