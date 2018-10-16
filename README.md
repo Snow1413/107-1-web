@@ -1,11 +1,6 @@
 # 207410381
 
 ## [INDEX](https://snow1413.github.io/207410381/)
-|Week  ||
-|------|-|
-|    01|
-|02
-
 ## Week 01
 * [intro.html](https://snow1413.github.io/207410381/Week-01/intro.html)
 
@@ -25,5 +20,6 @@
 * [Image Gallery.html/css](https://snow1413.github.io/207410381/Week-05/ImageGallery/imagegallery.html)
 * [Pet.html/css](https://snow1413.github.io/207410381/Week-05/Pet/pet.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTY3OTkxMywxOTA0NjY1Mjc1XX0=
+eyJoaXN0b3J5IjpbMTkwNDY2NTI3NSwyMDQ1Njc5OTEzLDE5MD
+Q2NjUyNzVdfQ==
 -->
