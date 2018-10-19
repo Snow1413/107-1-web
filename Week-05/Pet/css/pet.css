@@ -1,6 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif, 微軟正黑體;
-    background: url(207410381/Week-05/Pet/images/bg.jpg);
+    background: url(../images/bg.jpg);
 }
 
 header {
@@ -26,7 +26,7 @@ h1#text2 {
 aside {
     width: 170px;
     height: 400px;
-    background: url(207410381/Week-05/Pet/images/bg_lt.png);
+    background: url(../images/bg_lt.png);
     float: left;
 }
 
