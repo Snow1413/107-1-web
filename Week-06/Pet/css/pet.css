@@ -81,10 +81,10 @@ body {
     text-align: center;
 }
 
-#pet section.consection {
-    width: 500px;
+#pet article section.consection {
+    width: 400px;
     margin: 0px auto;
-    padding: 20px;
+    padding: 30px;
 }
 
 #pet img {
