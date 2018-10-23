@@ -74,9 +74,7 @@ body {
 }
 
 #pet fieldset {
-    border: 5px solid black;
     border-radius: 10px;
-    -webkit-border-radius: 12px;
 }
 
 #pet fieldset legend {
