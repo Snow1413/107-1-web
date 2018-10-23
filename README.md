@@ -5,8 +5,8 @@
 |02|[pkm.html](https://snow1413.github.io/207410381/Week-02/pkm.html)　[class.html](https://snow1413.github.io/207410381/Week-02/class.html)|11|
 03|[tku60.html](https://snow1413.github.io/207410381/Week-03/tku60.html)　[div.html](https://snow1413.github.io/207410381/Week-03/div.html)|12|
 04|[TicTacToe.html/css](https://snow1413.github.io/207410381/Week-04/ttt.html)　[My Blog.html/css](https://snow1413.github.io/207410381/Week-04/blog.html)　[profile.html](https://snow1413.github.io/207410381/Week-04/profile.html)|13|
-05|[Image Gallery.html/css](https://snow1413.github.io/207410381/Week-05/ImageGallery/imagegallery.html)　[Pet.html/css](https://snow1413.github.io/207410381/Week-05/Pet/index.html)|14|
-06||15|
+05|[Image Gallery.html/css](https://snow1413.github.io/207410381/Week-05/ImageGallery/imagegallery.html)|14|
+06|[Pet.html/css](https://snow1413.github.io/207410381/Week-06/Pet/index.html)|15|
 07||16|
 08||17|
 09||18|
@@ -28,7 +28,8 @@
 * [profile.html](https://snow1413.github.io/207410381/Week-04/profile.html)
 ## Week05
 * [Image Gallery.html/css](https://snow1413.github.io/207410381/Week-05/ImageGallery/imagegallery.html)
-* [Pet.html/css](https://snow1413.github.io/207410381/Week-05/Pet/index.html)
+## Week06
+* [Pet.html/css](https://snow1413.github.io/207410381/Week-06/Pet/index.html)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTMyMDM5MDU3NSwtMTcxMTYxOTA4NywxOT
 EwMzMzMDExLDQ3MjUxNDc0OSwxNjc1ODU3NzIxLDIxOTQwNzYx
