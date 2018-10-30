@@ -8,7 +8,7 @@
 05|[Image Gallery](https://snow1413.github.io/207410381/Week-05/imagegallery.html)|14|
 06|[Pet](https://snow1413.github.io/207410381/Week-06/Pet/index.html)|15|
 07|[TKU assign](https://snow1413.github.io/207410381/Week-07/tkuassign.html)　[GalleryTemlate](https://snow1413.github.io/207410381/Week-07/ImageGallery_TA/galleryTemplate.html)|16|
-08||17|
+08|[Pattern](https://snow1413.github.io/207410381/Week-08/index.html)|17|
 09||18|
 
 ## Week 01
@@ -33,6 +33,8 @@
 ## Week 07
 * [TKU assign.html](https://snow1413.github.io/207410381/Week-07/tkuassign.html)
 * [GalleryTemlate](https://snow1413.github.io/207410381/Week-07/ImageGallery_TA/galleryTemplate.html)
+## Week 08
+* [Pattern](https://snow1413.github.io/207410381/Week-08/index.html)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTMyMDM5MDU3NSwtMTcxMTYxOTA4NywxOT
 EwMzMzMDExLDQ3MjUxNDc0OSwxNjc1ODU3NzIxLDIxOTQwNzYx
