@@ -3,7 +3,7 @@ body{
 }
 
 header{
-    width: auto;
+    width: 100%;
 }
 
 nav ul li{
@@ -13,7 +13,7 @@ nav ul li{
 }
 
 article{
-    width: auto;
+    width: 100%;
 }
 
 section{
