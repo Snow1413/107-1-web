@@ -4,6 +4,7 @@ body{
 
 header{
     width: 100%;
+    height: auto;
 }
 
 nav ul li{
@@ -14,15 +15,18 @@ nav ul li{
 
 article{
     width: 100%;
+    height: auto;
 }
 
 section{
     width: 50%;
+    height: auto;
     float: left;
 }
 
 aside{
     width: 50%;
+    height: auto;
     float: left;
 }
 
