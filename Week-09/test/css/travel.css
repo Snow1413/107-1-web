@@ -1,0 +1,32 @@
+body{
+    border: 5px solid black;
+}
+
+header{
+    width: auto;
+}
+
+nav ul li{
+    float: left;
+    margin: 0 5px;
+    list-style: none;
+}
+
+article{
+    width: auto;
+}
+
+section{
+    width: 50%;
+    float: left;
+}
+
+aside{
+    width: 50%;
+    float: left;
+}
+
+footer{
+    text-align: center;
+    clear: both;
+}
