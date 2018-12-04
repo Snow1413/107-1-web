@@ -69,13 +69,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="btn btn-primary btn-block"><i class="fas fa-plus"></i>Add Post</a>
+                    <a href="#" class="btn btn-primary btn-block" data-toggle="modal" data-target="#AddPost"><i class="fas fa-plus"></i>Add Post</a>
                 </div>
                 <div class="col-md-3">
-                    <a href="#" class="btn btn-success btn-block"><i class="fas fa-plus"></i>Add Category</a>
+                    <a href="#" class="btn btn-success btn-block" data-toggle="modal" data-target="#AddCategory"><i class="fas fa-plus"></i>Add Category</a>
                 </div>
                 <div class="col-md-3">
-                    <a href="#" class="btn btn-warning btn-block"><i class="fas fa-plus"></i>Add User</a>
+                    <a href="#" class="btn btn-warning btn-block text-white" data-toggle="modal" data-target="#AddUser"><i class="fas fa-plus"></i>Add User</a>
                 </div>
             </div>
         </div>
@@ -151,14 +151,106 @@
     <!-- FOOTER -->
 
     <!-- MODALS -->
+    <div class="modal" id="AddPost">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header bg-primary text-white">
+                    <h5 class="modal-title">Add Post</h5>
+                    <button class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="title">Title</label>
+                        <input class="form-control" type="text" id="title">
+                    </div>
+                    <div class="form-group">
+                        <label for="category">Category</label>
+                        <select class="form-control" id="category">
+                                <option>Web Development</option>
+                                <option>Tech Gadgets</option>
+                                <option>Bussiness</option>
+                                <option>Heaith & Wellness</option>
+                            </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="myfile">Upload Image</label>
+                        <div class="custom-file">
+                            <input class="custom-file-input" type="file" id="myfile">
+                            <label class="custom-file-label" for="myfile">Choose file</label>
+                            <small class="form-text text-muted" id="fileHelp">Max 3mb size</small>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="body">Body</label>
+                        <textarea class="form-control" id="body" name="editor1" rows="3"></textarea>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-primary" data-dismiss="modal">Save Change</button>
+                </div>
+            </div>
+        </div>
+    </div>
 
+    <div class="modal" id="AddCategory">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header bg-success text-white">
+                    <h5 class="modal-title">Add Category</h5>
+                    <button class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="title">Title</label>
+                        <input class="form-control" type="text" id="title">
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-success" data-dismiss="modal">Save Change</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal" id="AddUser">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header bg-warning text-white">
+                    <h5 class="modal-title">Add User</h5>
+                    <button class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="name">Name</label>
+                        <input class="form-control" type="text" id="name">
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <input class="form-control" type="text" id="email">
+                    </div>
+                    <div class="form-group">
+                        <label for="password">Password</label>
+                        <input class="form-control" type="password" id="password">
+                    </div>
+                    <div class="form-group">
+                        <label for="ConfirmPassword">Confirm Password</label>
+                        <input class="form-control" type="password" id="ConfirmPassword">
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-warning text-white" data-dismiss="modal">Save Change</button>
+                </div>
+            </div>
+        </div>
+    </div>
     <script src="http://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
-
+    <script src="https://cdn.ckeditor.com/4.11.1/standard/ckeditor.js"></script>
     <script>
         // Get the current year for the copyright
         $('#year').text(new Date().getFullYear());
+        CKEDITOR.replace('editor1');
     </script>
 </body>
 
