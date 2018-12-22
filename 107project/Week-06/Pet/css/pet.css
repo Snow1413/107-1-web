@@ -3,6 +3,11 @@ body {
     background: url(../images/bg.jpg);
 }
 
+#pet {
+    width: 800px;
+    padding: 0;
+}
+
 #pet header {
     width: 800px;
     height: 80px;
