@@ -1,0 +1,28 @@
+.img3 {
+    width: 29%;
+    margin: 1.66%;
+}
+
+.img4 {
+    width: 20%;
+    margin: 2%;
+}
+
+.img5 {
+    width: 15%;
+    margin: 2%;
+}
+
+hr {
+    border: 5px solid #4b97e3;
+}
+
+p {
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 800;
+    padding-bottom: 15px;
+    margin: 2%;
+    width: 25%;
+    border-bottom: 5px solid #88dbf4;
+}
