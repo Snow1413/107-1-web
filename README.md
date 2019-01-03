@@ -1,4 +1,4 @@
-# [107 Project](https://snow1413.github.io/207410381/107project/intro.html)
+## [107 Project](https://snow1413.github.io/207410381/107project/intro.html)
 ||work||work|
 |:-:|:-:|:-:|:-:|
 |01|[intro](https://snow1413.github.io/207410381/107work/Week-01/intro.html)|10|期中考
@@ -8,8 +8,8 @@
 |05|[Image Gallery](https://snow1413.github.io/207410381/107work/Week-05/imagegallery.html)|14|[videotext](https://snow1413.github.io/207410381/107work/Week-14/videotext.html)
 |06|[Pet](https://snow1413.github.io/207410381/107work/Week-06/Pet/index.html)|15|[期末模擬考](https://snow1413.github.io/207410381/107work/Week-15/final-prep_207410381/p4_207410381.html)
 |07|[TKU assign](https://snow1413.github.io/207410381/107work/Week-07/tkuassign.html)　[GalleryTemlate](https://snow1413.github.io/207410381/107work/Week-07/ImageGallery_TA/galleryTemplate.html)|16|期末考
-|08|[Pattern](https://snow1413.github.io/207410381/107work/Week-08/index.html)|17|
-|09|期中模擬考|18|
+|08|[Pattern](https://snow1413.github.io/207410381/107work/Week-08/index.html)|extra|[English Note](https://snow1413.github.io/207410381/107project/Eng_Note.html)
+|09|期中模擬考||
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTMyMDM5MDU3NSwtMTcxMTYxOTA4NywxOT
