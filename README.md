@@ -1,4 +1,4 @@
-## [107 Project](https://snow1413.github.io/207410381/107project/intro.html)
+## [107 Project](https://snow1413.github.io/207410381/107project/intro.html)　　　　　　　[English Note](https://snow1413.github.io/207410381/107project/Eng_Note.html)
 ||work||work|
 |:-:|:-:|:-:|:-:|
 |01|[intro](https://snow1413.github.io/207410381/107work/Week-01/intro.html)|10|期中考
